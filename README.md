@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tenor.com/zh-HK/view/eyjafjalla-chibi-gif-1966932993222757717" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c22bf7ef-169a-4075-a9c4-c947138da089" width="30%" alt="Eyjafjalla Chibi" style="cursor: pointer;" />
+    <img src="https://github.com/user-attachments/assets/c22bf7ef-169a-4075-a9c4-c947138da089" width="35%" alt="Eyjafjalla Chibi" style="cursor: pointer;" />
   </a>
 </p>
 
